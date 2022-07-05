@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+![banner](https://user-images.githubusercontent.com/94988620/177403523-cb947d3e-a5e5-4bfe-a754-1b2b157fb1e2.png)
+
+https://github.com/mikeydgithub
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/michael-diamond-a704a9168/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" color="lightblue" /></a>
+<a href="https://www.instagram.com/mikexcpt/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+
 <!--
 **mikeydgithub/mikeydgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
