@@ -1,13 +1,21 @@
-### Hi there 👋
+![banner (1)](https://user-images.githubusercontent.com/94988620/177406982-042a7311-c03e-42a3-b7d4-4b70e6378505.png)
 
-![banner](https://user-images.githubusercontent.com/94988620/177403523-cb947d3e-a5e5-4bfe-a754-1b2b157fb1e2.png)
+- 🔭 I’m currently working on Shop Side. An e-commerce store for surfboards and surfware.
+- 🌱 I’m currently learning more about React, Material UI, Python, Angular, AWS, C#
 
-https://github.com/mikeydgithub
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/michael-diamond-a704a9168/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" color="lightblue" /></a>
-<a href="https://www.instagram.com/mikexcpt/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mikeydgithub&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+Follow me on GitHub [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
+
+
+
+- :telephone_receiver: Phone Number: 954-295-9085 
+- :email: Email: mikediamond334@gmail.com
+- :ocean: LinkedIn Profile: https://www.linkedin.com/in/michael-diamond-a704a9168/
+
+
+
 
 <!--
 **mikeydgithub/mikeydgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
