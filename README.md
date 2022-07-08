@@ -4,13 +4,13 @@
 - 🔭 Shop Side -  An e-commerce store for surfboards and surfware. :ocean:
 - 🌱 Learning more about React, Material UI, Python, Angular, AWS, C# :blue_book:
 
-
+# Scoreboard
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mikeydgithub&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 Follow me on GitHub [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
 
 
-
+# Contact
 - :telephone_receiver: Phone Number: 954-295-9085 
 - :email: Email: mikediamond334@gmail.com
 - :ocean: LinkedIn Profile: https://www.linkedin.com/in/michael-diamond-a704a9168/
