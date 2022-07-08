@@ -1,6 +1,6 @@
 ![banner (1)](https://user-images.githubusercontent.com/94988620/177406982-042a7311-c03e-42a3-b7d4-4b70e6378505.png)
 
-- What I am currently working on
+# Currently working on
 - 🔭 Shop Side -  An e-commerce store for surfboards and surfware. :ocean:
 - 🌱 Learning more about React, Material UI, Python, Angular, AWS, C# :blue_book:
 
